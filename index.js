@@ -37,7 +37,7 @@ client.on('ready', function () {
 client.on('messageCreate', function (message) {
     if (message.content === 'who is joe?') {
         message.reply({
-            content: 'JOE MAMA, LOL',
+            content: 'JOE MAMA, LOL UwU',
         });
     }
 });

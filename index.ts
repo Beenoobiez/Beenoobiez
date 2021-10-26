@@ -16,7 +16,7 @@ client.on('ready', () => {
 client.on('messageCreate', (message) => {
     if(message.content === 'who is joe?') {
         message.reply({
-            content: 'JOE MAMA, LOL',
+            content: 'JOE MAMA, LOL UwU',
         })
     }
 })
